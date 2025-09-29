@@ -10,7 +10,7 @@
 
 Hey! I'm **Harrison Njuguna**, a passionate software developer who thrives on building innovative solutions and exploring new technologies. When I'm not coding, you'll find me breaking things (intentionally... most of the time 😅) and diving deep into the latest tech trends.
 
-- 🔭 Currently working on **Learning Management Systems** and **automation solutions**
+- 🔭 Currently working on **Exploring new Technologies** and **automation solutions**
 - 🌱 Exploring **TensorFlow** for machine learning and **Zipline** for trading algorithms
 - 🎯 Always learning something new and pushing the boundaries of what's possible
 - 💡 Love turning complex problems into elegant, simple solutions
