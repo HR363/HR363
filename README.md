@@ -44,8 +44,7 @@ Hey! I'm **Harrison Njuguna**, a passionate software developer who thrives on bu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HR363&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR363&layout=compact&theme=tokyonight"/>
+
 
 </div>
 
