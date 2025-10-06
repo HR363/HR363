@@ -89,7 +89,7 @@ Hey! I'm **Harrison Njuguna**, a passionate software developer who thrives on bu
 
 ## 💭 Quote of the Day
 
-> *"The best way to predict the future is to create it."* -  Peter Drucker
+> *"The best way to predict the future is to create it."* - Peter Drucker
 
 ---
 
