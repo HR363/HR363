@@ -13,7 +13,7 @@ Hey! I'm **Harrison Njuguna**, a passionate software developer who thrives on bu
 - 🔭 Currently working on **Exploring new Technologies** and **automation solutions**
 - 🌱 Exploring **TensorFlow** for machine learning and **Zipline** for trading algorithms
 - 🎯 Always learning something new and pushing the boundaries of what's possible
-- 💡 Love turning complex problems into elegant, simple solutions
+- 💡 Love turning complex problems  into elegant, simple solutions
 
 ---
 
