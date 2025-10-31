@@ -1,118 +1,123 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Harrison+Njuguna;Software+Developer+%26+Tech+Explorer;Welcome+to+my+GitHub!&center=true&size=25&color=58A6FF)
+# Harrison Njuguna
+
+### Software Developer | Tech Explorer | Problem Solver
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-njuguna-b3b54834a)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/HR363)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HR363&style=flat&color=58A6FF)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Hey! I'm **Harrison Njuguna**, a passionate software developer who thrives on building innovative solutions and exploring new technologies.When I'm not  coding, you'll find me breaking things (intentionally... most of the time 😅) and diving deep into  the latest tech trends.
+I'm a passionate software developer focused on building innovative solutions and exploring cutting-edge technologies. I thrive on transforming complex challenges into elegant, maintainable code.
 
-- 🔭 Currently working on **Exploring new Technologies** and **automation solutions**
-- 🌱 Exploring **TensorFlow** for machine learning and **Zipline** for  trading algorithms
-- 🎯 Always learning something new and pushing the boundaries of what's possible
-- 💡 Love turning complex problems  into elegant, simple solutions
+**Currently exploring:**
+- 🤖 Machine Learning with TensorFlow
+- 📊 Algorithmic Trading using Zipline
+- 🎓 EdTech and Learning Management Systems
+- ⚡ Automation and efficiency tools
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technology Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-
-### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,java&perline=6)](https://skillicons.dev)
-
-### Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=react,angular,html,css&perline=4)](https://skillicons.dev)
-
-### Backend Development
-[![Backend](https://skillicons.dev/icons?i=nestjs,spring,nodejs&perline=3)](https://skillicons.dev)
-
-### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,azure,vscode&perline=4)](https://skillicons.dev)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HR363&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR363&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HR363&theme=tokyonight&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=HR363&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Professional Highlights
 
-- 🤖 **Machine Learning**: Diving deep into TensorFlow for AI/ML projects
-- 📊 **Algorithmic Trading**: Building trading strategies with Zipline
-- 🎓 **EdTech**: Developing comprehensive Learning Management Systems
-- ⚡ **Automation**: Creating EAs and automation tools for efficiency
-
----
-
-## 🏆 Achievements & Highlights
-
-- 💻 **Full-Stack Developer** with experience in modern web technologies
-- 🔧 **Problem Solver** who enjoys tackling complex technical challenges
-- 📚 **Continuous Learner** always staying updated with latest tech trends
-- 🤝 **Team Player** with strong collaboration and communication skills
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-njuguna-b3b54834a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR363)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-> *"The best way to predict the future is to create it."* - Peter Drucker
-
----
-
-## 🎮 Fun Facts
-
-- 🐛 My code works 99% of the time. The other 1% is when someone is watching me
-- 🎯 I believe every bug is just an undocumented feature
-
----
-
-<div align="center">
-
-### Thanks for visiting! 🙏
-
-![Visitor Count](https://komarev.com/ghpvc/?username=HR363&style=for-the-badge&color=58A6FF)
-
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
-
-</div>
-
----
-
-<div align="center">
-<i>Happy Coding! 🚀</i>
-</div>
+```typescript
+const harrison = {
+    role: "Full-Stack Developer",
+    expertise: ["Web Development", "System Design", "Problem Solving"],
+    currentFocus: ["Machine Learning", "Algorithmic Trading", "EdTech"],
+    mindset: "Continuous Learning & Innovation",
+    approach: "Complex problems → Elegant solutions"
+};
 ```
+
+**Key Strengths:**
+- ✨ Full-stack development with modern frameworks
+- 🧩 Strong problem-solving and analytical skills
+- 📈 Passionate about automation and efficiency
+- 🤝 Effective collaborator and communicator
+
+---
+
+## 💡 Philosophy
+
+> *"The best way to predict the future is to create it."* — Peter Drucker
+
+I believe in writing code that's not just functional, but maintainable, scalable, and elegant. Every challenge is an opportunity to learn and grow.
+
+---
+
+<div align="center">
+
+### 🚀 Let's Build Something Amazing Together
+
+**Open to collaborations, interesting projects, and tech discussions!**
+
+⭐ *Found something useful? Consider starring the repository!* ⭐
+
+---
+
+*Thanks for visiting! Happy Coding!* 💻
+
+</div>
 
