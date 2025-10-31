@@ -30,8 +30,7 @@ current_focus: [Machine Learning, Algorithmic Trading, EdTech, Automation]
 philosophy: "Transform complex challenges into elegant solutions"
 ```
 
-**What I'm building:**
-🤖 ML systems with TensorFlow • 📊 Trading algorithms with Zipline • 🎓 Learning Management Systems • ⚡ Automation tools
+**BUILDING SUSTAINABLE AND SCALABLE SOLUTIONS**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="25px"> Tech Stack
 
