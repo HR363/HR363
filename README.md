@@ -229,4 +229,3 @@ const approach = "Transform complexity into simplicity, one commit at a time.";
 **© 2025 Harrison Njuguna** • *Crafted with* 💻 *and* ☕
 
 </div>
-
