@@ -26,8 +26,8 @@
 name: Harrison Njuguna
 role: Full-Stack Software Developer
 location: Nairobi, Kenya
-current_focus: [Machine Learning, Algorithmic Trading, EdTech, Automation]
-philosophy: "Transform complex challenges into elegant solutions"
+current_focus: [Machine Learning,  Algorithmic Trading,  EdTech, Automation]
+philosophy: "Transform complex  challenges into elegant solutions"
 ```
 
 **BUILDING SUSTAINABLE AND SCALABLE SOLUTIONS**
@@ -77,11 +77,11 @@ philosophy: "Transform complex challenges into elegant solutions"
 <td width="50%" valign="top">
 
 **Development Expertise**
-- Full-Stack Web Development
-- System Architecture & Design
-- RESTful API Development
-- Machine Learning Integration
-- Database Design & Optimization
+- Full-Stack  Web Development
+- System  Architecture & Design
+- RESTful  API Development
+- Machine  Learning Integration
+- Database  Design & Optimization
 
 </td>
 <td width="50%" valign="top">
