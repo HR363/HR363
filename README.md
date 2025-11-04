@@ -26,7 +26,7 @@
 name: Harrison Njuguna
 role: Full-Stack Software Developer
 location: Nairobi, Kenya
-current_focus: [Machine Learning,  Algorithmic Trading,  EdTech, Automation]
+current_focus: [Machine Learning,  Algorithmic Trading, EdTech, Automation]
 philosophy: "Transform complex  challenges into elegant solutions"
 ```
 
