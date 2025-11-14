@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,1,2,3,4&height=180&section=header&text=Harrison%20Njuguna&fontSize=70&fontAlign=50&fontAlignY=30&fontColor=fff"/>
 
-### 『 Software Developer • Tech Innovator • Problem Solver 』
+### 『 Software Developer • Tech Innovato r • Problem Solver 』
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harrison-njuguna-b3b54834a">
